@@ -17,7 +17,7 @@
             <div class="row">
               <div class="col-12 d-lg-flex d-none h-100 position-absolute start-0 justify-content-center flex-column top-0 m-0 p-0 text-center">
                 <div class="position-relative bg-gradient-primary h-100 d-flex flex-column justify-content-center"
-                  style="background-image: url('assets/img/health_blocks.png'); background-size: cover; background-repeat: no-repeat;">
+                  style="background-image: url('assets/img/blue.jpg'); background-size: cover; background-repeat: no-repeat;">
                 </div>
                 <span class="mask bg-gradient-primary opacity-6"></span>
               </div>
